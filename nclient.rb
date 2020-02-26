@@ -1,9 +1,9 @@
 #!/usr/bin/env ruby
+# Thank you to https://github.com/zfletch/ncurses-chat-rb for helping with the curses
 
 require 'ncurses'
 require 'socket'
 require 'optparse'
-require 'colorize'
 
 
 def interpret(three, connected, msg)

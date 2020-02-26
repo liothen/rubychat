@@ -1,5 +1,6 @@
 #!/usr/bin/env ruby
-
+# Thank you to https://github.com/zfletch/ncurses-chat-rb
+#
 require 'socket'
 require 'optparse'
 require 'colorize'
