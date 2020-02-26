@@ -6,4 +6,4 @@ git_source(:github) do |repo_name|
 end
 
 gem 'colorize'
-gem 'ncurses'
+gem 'ncurses-ruby'
